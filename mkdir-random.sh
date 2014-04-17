@@ -9,4 +9,5 @@ $RANDOMCHAR2 = random-char
 echo $RANDOMCHAR1
 
 # CREATE DIRECTORY TREE USING RANDOM CHARACTER
+#mkdir -p {a,b,c}/{d,e,f,g}/{h,i,j,k,l}
 #mkdir -p {$RANDOMCHAR1,$RANDOMCHAR1}
